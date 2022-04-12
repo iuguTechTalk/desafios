@@ -1,5 +1,5 @@
 # Desafios de Páscoa
-
+Escolha o seu desafio e submeta na pasta correspondente ao nível e boa sorte!
 # Nível I
 ## Premiação: Gato mia Cacau Show
 Você poderá fazer quantos exercícios quiser, a premiação se dará por ordem de entrega de resposta correta, limitada ao número de 1 entrega por desafio enquanto durarem os estoques de prêmios.
